@@ -1,0 +1,1 @@
+The QR Code Generator is designed to simplify the process of creating QR codes for personal or professional use. It helps users quickly convert information into a scannable format that can be shared digitally or printed.
